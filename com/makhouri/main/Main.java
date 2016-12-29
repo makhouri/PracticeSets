@@ -1,8 +1,8 @@
-package main;
+package makhouri.main;
 
 import com.ashok.lang.inputs.InputReader;
 import com.ashok.lang.inputs.Output;
-import dataStructures.implementation.SinglyLinkedListImpl;
+import makhouri.dataStructures.implementation.SinglyLinkedListImpl;
 
 import java.io.IOException;
 

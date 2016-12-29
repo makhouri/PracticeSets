@@ -1,15 +1,16 @@
-package dataStructures.templates;
+package makhouri.dataStructures.implementation;
 
 /**
  * Template class for singly linked list. It has functions for adding, removing integers to list.
  *
+ * @author Mamata Akhouri
  * @author Ashok Rajpurohit (ashok1113@gmail.com)
  */
-public class SinglyLinkedList {
+public class SinglyLinkedListImpl {
     private Node head, tail; // first and last element.
     private int size = 0; // number of elements in list.
 
-    public SinglyLinkedList() {
+    public SinglyLinkedListImpl() {
     }
 
     public void add(int value) {
